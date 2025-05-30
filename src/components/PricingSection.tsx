@@ -101,7 +101,7 @@ const PricingSection = () => {
               <div className="mb-6">
                 <div className="flex items-center justify-center space-x-3 mb-2">
                   <span className="text-xl font-medium text-slate-500 line-through">R$120</span>
-                  <span className="text-4xl font-bold text-white">R$50</span>
+                  <span className="text-4xl font-bold text-white">R$27</span>
                 </div>
                 <div className="text-slate-400">por 12 meses de acesso</div>
                 <div className="text-sm text-green-400 font-medium mt-2 bg-green-500/10 px-3 py-1 rounded-full inline-block">
